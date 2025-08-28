@@ -14,4 +14,4 @@ This repository contains my **JavaScript Level 1** learning and practice files.
 - ✅ Loops (for, while, do-while)  
 - ✅ Functions (basic introduction)  
 
->>>>>>> f755c51 (Added javascript classroom)
+
