@@ -1,9 +1,9 @@
 <<<<<<< HEAD
 # javascript-classroom
 =======
-# 🚀 JavaScript Level 1 – Practice Repository  
+# 🚀 JavaScript Part 1 – Practice Repository  
 
-This repository contains my **JavaScript Level 1** learning and practice files.  
+This repository contains my **JavaScript Part 1** learning and practice files.  
 
 
 ## 📚 Topics Covered
@@ -15,3 +15,52 @@ This repository contains my **JavaScript Level 1** learning and practice files.
 - ✅ Functions (basic introduction)  
 
 
+## 📚 JavaScript – Part 2 (Arrays & Strings)
+
+This repository contains my **JavaScript Part 2** learning and practice files.  
+
+
+- ✅ String Methods  
+  - trim(), toUpperCase(), toLowerCase(), slice(), replace(), repeat()  
+- ✅ Strings are Immutable  
+- ✅ Methods with Arguments  
+- ✅ Method Chaining  
+- ✅ Practice Qs (Strings)  
+- ✅ Array Basics  
+  - Array Data Structure  
+  - Visualizing Arrays  
+  - Creating Arrays  
+  - Arrays are Mutable  
+  - Array Methods (push, pop, shift, unshift, etc.)  
+- ✅ Practice Qs (Arrays)  
+- ✅ Advanced Array Methods  
+  - indexOf() & includes()  
+  - concat() & reverse()  
+  - slice() & splice()  
+  - sort()  
+- ✅ Array References  
+- ✅ Constant Arrays  
+- ✅ Nested Arrays  
+
+---
+
+## 📚 JavaScript – Part 3 (Loops & Patterns)
+
+This repository contains my **JavaScript Part 3** learning and practice files.  
+
+
+- ✅ Print Numbers 1 to 50  
+- ✅ Squares of Numbers (1 to 10)  
+- ✅ Even Numbers (2 to 8)  
+- ✅ Odd Numbers (1 to 100)  
+- ✅ Even Numbers (20 to 50)  
+- ✅ Multiplication Table  
+- ✅ Star Pattern Printing  
+- ✅ Reverse Countdown (10 to 1)  
+- ✅ Ask Number Until 0 (while loop)  
+- ✅ Guess Movie Game (while loop)  
+- ✅ Break at 7 (while loop with break)  
+- ✅ Fruits Loop (for-of loop)  
+- ✅ Nested Array Loop (2D array)  
+- ✅ String Loop (for-of on string)  
+- ✅ Todo App (Mini Project)  
