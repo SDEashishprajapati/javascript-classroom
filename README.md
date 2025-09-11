@@ -64,3 +64,28 @@ This repository contains my **JavaScript Part 3** learning and practice files.
 - ✅ Nested Array Loop (2D array)  
 - ✅ String Loop (for-of on string)  
 - ✅ Todo App (Mini Project)  
+
+---
+
+# JavaScript Part 4 (Objects and Math)
+
+This repository contains my **JavaScript (Part 4)** practice programs.  
+Each topic is saved in a separate file.
+
+---
+
+## 📂 Topics Covered
+
+- Object Literals  
+- Creating Object Literals  
+- Creating a Post  
+- Get Values  
+- Conversion in Get Values  
+- Add / Update Values  
+- Nested Objects  
+- Array of Objects  
+- Math Object & Random Numbers  
+- Dice Roll  
+- Assignment Questions  
+
+
