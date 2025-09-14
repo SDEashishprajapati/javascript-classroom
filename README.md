@@ -88,4 +88,21 @@ Each topic is saved in a separate file.
 - Dice Roll  
 - Assignment Questions  
 
+---
 
+# JavaScript Part 6 (Functions and Objects)
+
+This repository contains my **JavaScript (Part 6)** practice programs.
+Each topic is saved in a separate file for easy reference and practice.
+
+## 📂 Topics Covered
+
+- Function Basics
+- Function with Parameters
+- Function with Return Value
+- Average Function
+- Scope (var, let, const)
+- Nested Functions
+- Function Expressions
+- Object Methods (this keyword)
+- Maths Object (square & cube)
