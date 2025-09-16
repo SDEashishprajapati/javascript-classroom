@@ -90,7 +90,7 @@ Each topic is saved in a separate file.
 
 ---
 
-# JavaScript Part 6 (Functions and Objects)
+# JavaScript Part 5 (Functions and Objects)
 
 This repository contains my **JavaScript (Part 6)** practice programs.
 Each topic is saved in a separate file for easy reference and practice.
@@ -106,3 +106,23 @@ Each topic is saved in a separate file for easy reference and practice.
 - Function Expressions
 - Object Methods (this keyword)
 - Maths Object (square & cube)
+
+---
+
+# JavaScript Part 6 (this keyword and Arrow functions)
+
+This repository contains my **JavaScript (Part 6)** practice programs.
+Each topic is saved in a separate file for easy reference and practice.
+
+## 📂 Topics Covered
+
+- this keyword
+- try catch
+- Arrow Functions
+- Implicit Return in Arrow Functions
+- setTimeout
+- setInterval
+- this.arrow usage
+
+
+
