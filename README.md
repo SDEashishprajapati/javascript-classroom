@@ -124,5 +124,23 @@ Each topic is saved in a separate file for easy reference and practice.
 - setInterval
 - this.arrow usage
 
+---
+
+# JavaScript Part 7 (Array Methods)
+
+This repository contains my **JavaScript (Part 7)** practice programs.
+Each topic is saved in a separate file for easy reference and practice.
+
+## 📂 Topics Covered
+
+- Array Methods (forEach, Map, Filter, Reduce, Every, Some)
+- Default Parameter
+- Spread 
+- Rest 
+- Assignment Ouestions
+
+
+
+
 
 
