@@ -139,6 +139,29 @@ Each topic is saved in a separate file for easy reference and practice.
 - Rest 
 - Assignment Ouestions
 
+---
+
+# JavaScript Part 8 (DOM)
+
+This repository contains my **JavaScript (Part 8)** practice programs.
+
+## 📂 Topics Covered
+
+
+- What is DOM?
+- Selecting Element by ID
+- Selecting Elements by Class Name
+- Selecting Elements by Tag Name
+- Query Selectors
+- Setting Content in Objects
+- Manipulating Attributes
+- Manipulating Style (with style attribute)
+- classList Property
+- Navigation on Page
+- Adding Elements on Page
+- Removing Elements from Page
+- Assignment Qs
+
 
 
 
