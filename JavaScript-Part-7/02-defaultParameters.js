@@ -3,7 +3,7 @@ function greet(name = "Friend") {
     console.log("Hello " + name);
 }
 
-greet("Shristi Kashyap");
+greet("Ashish Prajapati");
 greet();
 
 function power(a, b = 2) {
