@@ -162,8 +162,20 @@ This repository contains my **JavaScript (Part 8)** practice programs.
 - Removing Elements from Page
 - Assignment Qs
 
+---
 
+# JavaScript Part 9 (DOM Events)
 
+This repository contains my **JavaScript (Part 9)** practice programs.
+
+## 📂 Topics Covered
+
+✅ What is DOM Event?
+✅ Event Listeners
+✅ Mouse Events
+✅ Keyboard Events
+✅ Form Events
+✅ Practical Implementation — Random Color Generator Project 🎨
 
 
 
